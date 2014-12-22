@@ -1,0 +1,425 @@
+
+JACKHACK GUIDE
+==============
+
+BASIC GAMEPLAY
+
+For 99 days (turns) you will be in a place with a terrain type and
+possibly a monster or town.  The chance of there being a town starts
+at 99% on day one and drops to 1% by day 99;  likewise, the chance
+of there being a monster starts at 1% and works its way up to 99%.
+Each day, you will be asked to select a job to play that day;  what happens
+when you select that job depends (mostly) upon whether there's a 
+monster or a town (or neither.)  If you are in a town, depending on
+the job you choose, you may then be prompted with an offer to purchase
+something (if you have enough gold to buy what's for sale) which you
+may accept or refuse.  Those are the only two types of choices you will
+be asked to make.  Your final score is your gold, so spend it well.
+
+On day 100, you will automatically play the job you have played most 
+often.  Generally, it will play like a level 100 monster with the most
+common elemental strength and the second most common elemental weakness, 
+in a town with 100 gold on the rarest terrain, though certain rules and 
+exceptions apply, depeding on the job.
+
+QUICK START
+
+The most important thing to know is that you can type a question mark
+rather than a number at the job selection prompt to get a basic overview
+of what each job can accomplish that day.  Use this to get an idea of what 
+your basic options are.
+
+Playing Thief is the only way you can extract a significant amount of gold from 
+a town without a monster.  As towns without monsters dominate the early game, you'll 
+want to play Thief in towns until you have enough gold to do something else.
+
+As soon as you build up some gold to spend, you'll want to play Scholar in a few
+towns to train yourself up in other jobs quickly.  This costs twice your Scholar
+level in gold.  It's also good to play Druid in town early on, to purchase a pet
+for the day number in gold.  Pets offer a benefit for most jobs.
+
+To improve your chance of success against monsters, you'll need health.  You can
+play Healer to trade in gold for health, or play Ranger against a monster to gain
+health directly.
+
+If your health drops below 1, you'll retreat from battle and have your health reset 
+to 1 on the next day.  If this happens when you're playing Thief, you'll also lose 
+all your gold.
+
+When facing a monster, playing Thief, Scholar or Warrior risks losing up to the day 
+number in health.  Playing Wizard or Ranger risks losing all your health, but at
+higher job levels is more likely to end the battle quickly without losing any health.  
+Druids, Healers and Artists never lose health.
+
+Wizards need at least 2 health to win a battle, and Druids need more health 
+than the monster you are facing to capture it.  All other jobs that engage in 
+battle always have at least a remote chance of succeeding in a fight.
+
+The title after your character's name (eg "Jack the Thief/Scholar") is used to 
+determine what job you will automatically play against the final boss on day 100.  
+It is also used for the high score board--only the highest score for each job title
+is recorded.  However, your title does not matter before the last day.  Only the
+job you choose to play on a given day matters for that day.
+
+Finally, know that Artists are almost entirely useless, and tend to end up very poor.
+You've been warned.
+
+TOWNS
+
+Towns have town gold, which will be a random number no greater than the day number.
+They also have a variety of shops that appear under different circumstances, depending
+on the job that the shops serve.  They also offer many opportunities for healing.
+
+ELEMENTS
+
+There are 14 elements in the game, each corresponding to a terrain.
+The least common terrain (parking lot) occurs about once every 105 days;  
+the most common terrain (prairie) occurs about 14 out of 105 days.
+
+MONSTERS
+
+There are 14 monster types in the game, distributed with increasing rarity
+in the same manner as the elements.  Individual monsters have their own level, 
+unrelated to their type, which will be a random number no greater than the day 
+number on which they appear (a monster on day 25 will be no higher than level 25, 
+but is probably lower than that.)  Monster levels are used to determine success
+in battle.  The monster's level is also its initial health, attack damage and
+the amount of gold that can be plundered from it.
+
+Monsters are generally weak against one element and strong against another.
+Monster strengths and weaknesses occur with inverse rarity to terrains (the 
+most common strength or weakness, concrete, corresponds to the rarest terrain.)
+If a monster is generated with identical weakness and strength, it will
+have neither a weakness nor a strength.  Monster levels are effectively halved
+for attack rolls on their weak terrain, and doubled for attack rolls on their
+strong terrain (health, attack damage and gold are not affected.)
+
+Monsters may be studied by certain jobs.  Once a monster type is "Known", you
+will see the stats for every monster of that type.
+
+PETS
+
+Pets are monsters that you befriend, and fight on your behalf.  Pets are
+acquired using the Druid job, but most jobs receive some kind of bonus for 
+having a pet.  If you have no pets, you may purchase one in a town using
+Druid for a cost equal to the day number in gold.
+
+JOBS
+
+Each job starts at level 1.  Every time you play a job, you will go up one
+level in that job.  You can also train in jobs using Scholar, such that 
+job levels can increase faster than the day number.
+
+Some jobs can also have their own elemental strengths and weaknesses.  
+Certain jobs also have elemental attacks (not to be confused with strengths) 
+that double their level when facing opponents weak in that element.  Elemental
+strengths, weaknesses and attacks apply only to the job that earned them,
+and do not affect your other jobs.
+
+Your top job (the one listed first after your name) is the job you have played
+most often (the number in parenthesis after the job level), and is the job you will 
+automatically play on Day 100.  In case of a tie, the first job to become your top 
+job will keep the title (you have to exceed your current top job to change your top job.)
+
+More than one job may be listed after your name.  If you've played your top job
+1/2 the time or more, all jobs played 1/3 the time or more will be listed;
+if you've played your top job 1/3 the time or more, all jobs played 1/4 the time
+or more will be listed, and so forth.  If you've played all 8 jobs more than 1/9
+the time, you're a "Jack of All Trades" and special finale circumstances apply.  
+Your top job is always listed first, and the remaining jobs are listed in descending
+order of the number of times they've been played, with ties broken by which was 
+played first.
+
+Your full title (all jobs in order or "of All Trades") is what's used for 
+ranking you on the high score list--only one high score for each title will be listed.
+
+DICE ROLLS
+
+You won't actually see the numbers being rolled while playing the game, but 
+understanding them will help you understand why your actions succeed or fail.  
+There are two types of rolls in the game--attack rolls and skill rolls.
+
+Skill rolls are a number between one and the day number, which must be
+less than or equal to the corresponding job level to succeed.  Skill rolls
+automatically succeed if the job is strong on the day's terrain, and automatically
+fail if the job is weak on the day's terrain.  Unless the job is weak on the
+terrain, skill rolls for a level equal to or greater than the day number will 
+always succeed.
+
+Attack rolls are more complicated, but still pretty simple.  Attacks occur
+between a job/pet and a monster (any of which can be attacker or defender,
+depending on the circumstances.)  The basic attack roll is a number between 
+one and the sum of both their levels.  It succeeds if it is less than or equal
+to the attacker's level.  For example, a level 25 vampire making an attack against
+a level 50 Warrior needs to roll 25 or less on a 75-sided die.  Thus,
+unlike skill rolls, no matter how high the level, there's always a chance the
+attack roll will fail.
+
+For attack rolls, if a participant is strong on the terrain on which it
+occurs, their level is doubled.  If a participant is weak on the terrain, 
+their level is halved (though it is always at least 1.)  Also, if the attacker 
+has an elemental attack (not the same as a strength) and the defender is weak 
+in that element, the attacker's level is doubled.
+
+WARRIOR
+
+Warriors always receive +1 health from a town.
+
+Warriors may also purchase elemental attacks (in the form of "gems")
+from towns where there are no monsters.  The first gem they buy costs 1 gold, 
+the second costs 2 gold, the third costs 3, etc.  The gem for sale always 
+corresponds to the terrain (for instance, towns on the prairie always sell 
+grass gems.)  If you already have that gem or you can't afford it, no gem will 
+be offered.  Since monster weaknesses have the opposite distribution as
+terrain types, gems from the rarest terrains are more likely to be useful.
+
+Warriors fight monsters one hitpoint at a time.  Warrior attacks always
+succeed, so the battle always begins by the warrior inflicting 1 damage on
+the monster.  Then the monster makes an attack roll against the warrior and, 
+if it succeeds, you lose 1 health.  If you run out of health before
+the monster dies, you retreat and your health is reset back to 1 (2 in a town,
+counting the +1 health mentioned above.)  Note that, because Warrior attacks
+always succeed, you'll never lose more than the monster's level in health.
+
+If a Warrior has pets, the highest level pet for the circumstances (including
+elemental strengths/weaknesses) will also get to make one attack roll against the 
+monster, before the fight begins.  Pets inflict their level in damage when their 
+roll succeeds, so pets have the potential of ending the fight very quickly.  
+Pets are very good to have with Warriors.
+
+If a Warrior defeats a monster, it plunders the monster's gold.  If a Warrior 
+defeats a monster in a town, it also receives the town's gold.
+
+On day 100, Warriors play out exactly like they would in a 100 level town with
+a 100 level monster, except their pets cannot help.  The final monster is always
+weak against the quantum gem.
+
+HEALER
+
+Healers never get any gold and they ignore monsters completely.
+
+Healers make a skill roll and, if it succeeds, you regain their level in health and 
+lose a corresponding amount of gold.  If you do not have enough gold, you will only 
+heal up to the gold you have.  If you do not have any gold but you do have pets, 
+you will sacrifice your richest pet and use its gold, possibly netting more than 
+your level in health.  If you have no gold or pets, you will get a free +1 health.
+
+If the roll succeeds and you offered some sort of sacrifice, your Healer will become
+strong on that day's terrain (represented on your character sheet by a corresponding
+god.)  All of your skill rolls on this terrain will now automatically succeed.
+You do not gain this elemental strength for free heals.
+
+If the roll fails in a town and you have gold to sacrifice, you will still get to
+heal for the usual cost, but you will not gain the elemental strength.  You cannot
+sacrifice a pet in this circumstance.
+
+Otherwise, if the roll fails, you get a freebie +1 health.
+
+On day 100, Healers make a skill roll.  If it succeeds, they receive 200 gold
+plus whatever they've sacrificed (to make up for generally not being able to get
+gold.)  The final terrain is always the rarest terrain, parking lot, so it helps to
+already have the corresponding god, Bob.
+
+THIEF
+
+When facing monsters, the monster makes a single attack roll against the Thief.  If it
+succeeds, you lose the monster's level in health.  If this knocks you out, the monster
+will steal ALL YOUR GOLD.  If you survive the monster's attack, the Thief then makes 
+a single attack roll against the monster.  If it succeeds, you steal the monster's gold.
+
+If you have a pet, the monster will attack the pet instead, possibly killing it.
+
+In towns, Thiefs make a skill check.  If it succeeds, they steal the town's gold.
+If it fails, they become wanted by the local guild, making them weak on that terrain, 
+represented on your character sheet by the "Wanted" field.  Until you clear your name,
+you will be unable to steal from towns on that terrain, and you will be weak against
+monsters on that terrain.  Next time you play Thief in a town on that terrain, if you
+have enough gold, you can pay off a corrupt official with the day number in gold
+to clear your name for this terrain.
+
+If you successfully steal from a town, if you have enough gold and have not already
+done so, you will be given the option to pay twice the day number in gold to join the 
+local guild for that terrain, in which case you will always steal from towns on that 
+terrain, and you will be strong against monsters on that terrain.
+
+On day 100, Thiefs play out exactly like they would in a 100 level town with
+a 100 level monster, except their pets cannot help.  The final terrain is always
+parking lot, so it helps to belong to the Guild of Slackers.
+
+WIZARD
+
+Wizards always receive +1 health from a town.
+
+Wizards may also purchase elemental attacks (in the form of "spells")
+from towns that don't have monsters.  The first spell they buy costs 1 gold, 
+the second costs 2 gold, the third costs 3, etc.  The spell for sale always 
+corresponds to the terrain (for instance, towns on the prairie always sell
+the mow spell.)  If you already have that spell or you can't afford it, no spell 
+will be offered.  Since monster weaknesses have the opposite distribution as
+terrain types, spells from the rarest terrains are more likely to be useful.
+
+Wizards only need to land one attack when fighting monsters, but they don't
+have initiative, so the battle begins with the monster making an attack
+roll.  If it succeeds, the monster does its level in damage.  If this drops
+your health below 2, you retreat.  Otheerwise, you "tap yourself for mana"
+(-1 Health) and make an attack roll.  If it succeeds, the battle is over and you 
+win.  If it fails, the whole process repeats.  Note that, because Wizards must tap 
+themselves for mana, they must have at least 2 health to fight at all.
+
+If you have a pet and it makes a successful attack roll against a monster at
+the start of battle, your Wizard gets the initiative and the monster loses its
+first attack (the pet does not, however, inflict any damage on the monster.)
+Play proceeds back and forth as usual from there.  A pet is a very good thing 
+for a Wizard to have.
+
+If a Wizard defeats a monster, it plunders the monster's gold.  If a Wizard 
+defeats a monster in a town, it also receives the town's gold.
+
+On day 100, Wizards play out exactly like they would in a 100 level town with
+a 100 level monster, except their pets cannot help.  The final monster is always
+weak against the warp spell.
+
+RANGER
+
+Rangers always receive +1 health from a town.  Rangers can also choose to stay
+at an inn by paying twice the day number in gold, receiving the day number in
+additional health (twice as expensive per point as a Healer.)
+
+Rangers fight exactly like Wizards, but they do not need to tap themselves for
+mana (hence they can fight with just 1 health.)  If they win, instead of receiving
+monster gold, they receive an equivalent amount of health.  They still receive
+gold from the town, if they succeed in killing a monster there.  Also like
+Wizards, they can gain initiative by having a pet.
+
+If there is neither a town nor a monster on a given day, Rangers receive +1 health.
+They also become strong on the day's terrain, noted as a map on your character sheet.
+If they already have that map and you have pets of an unidentified monster type, 
+they will identify a pet and you will be able to see the stats for all monsters
+and pets of that type.  This is the same thing Scholars do when they identify a
+monster;  there is no need to identify the same monster type with both classes.
+
+On day 100, Rangers play out exactly like they would in a 100 level town with
+a 100 level monster, except their pets cannot help.  The final terrain is always
+parking lot, so it helps to have that map.
+
+If they succeed against the final monster AND their final health (including the +100
+from the monster) is greater than their gold, their health becomes their gold (ie
+you gain health minus gold in gold.)  Whether or not your final health exceeds your
+gold, you'll also receive 100 gold from the town for killing the monster.  This means
+that it's to your benefit to convert as much gold into health as you can before you
+get to that final battle.  Hence, Healers are very useful alongside Rangers.
+
+SCHOLAR
+
+Scholars exist primarily for training other classes and identifying monsters.
+
+If a monster is present, the monster will make a single attack roll against the
+Scholar.  If it succeeds, you lose the monster's level in health (but no more than
+would reduce you to 1 health.)  Whether or not the monster hits you, you will 
+identify the monster and you will be able to see the stats for all monsters and 
+pets of that type from now on.
+
+If you have a pet, the monster will attack the pet instead, possibly killing it.
+
+The only time you will not identify the monster is if its attack succeeds and you 
+only had 1 health to begin with, in which case you will also lose all the other 
+benefits listed below.
+
+In towns, unless you are keeping your distance from a monster, the Scholar will 
+have the opportunity to train up another job.  The cost is always 2 times your 
+Scholar level, and yields an equivalent amount of levels for the (randomly 
+selected) job that is offered.  The Scholar job itself cannot be trained up, so 
+your Scholar level is always 1 + the number of times you've played Scholar.  
+Also note that training as an Artist offers absolutely no gameplay benefit, as 
+Artists make no rolls (you've been warned.)  If you cannot afford to train,
+you will receive +1 gold instead.
+
+If there is not a town, unless you are keeping your distance from a monster,
+the scholar makes a skill check.  If it succeeds, you will receive an "unidentified 
+scroll" worth 2 times your Scholar level in some unknown class.  Next time you play 
+Scholar in a town (without keeping distant), all scrolls will be identified and you 
+will train their value in the jobs listed on them.
+
+Scholars have no elemental strengths, weaknesses or attacks.
+
+Day 100 begins with a 100 level monster making a single attack roll against you,
+doing 100 damage if it hits and POSSIBLY KILLING YOU AND STEALING ALL YOUR GOLD.  
+If you survive, you will identify all remaining scrolls.  Your reward is the 200 
+gold from the town and monster, plus 1 gold for each level you trained in all 
+classes (this includes training from scrolls.)
+
+DRUID
+
+Druids are all about collecting pets.  When encountering a monster, if your
+health is greater than the monster's level, you will make an attack roll.  If 
+it succeeds, the monster becomes your pet.  If it fails and you already have pets, 
+the monster then makes an attack roll against the highest level pet for the 
+circumstances (including elemental strengths and weaknesses), doing the monster's 
+level in damage if it succeeds and possibly killing the pet.  If you have no pets, 
+the monster attacks you instead.  Play continues in this manner until you capture 
+the monster or your health is less than or equal to the monster's level.
+
+Druids have no elemental strengths, weaknesses or attacks, but their pets' strengths
+and weaknesses apply when the pet is being attacked.
+
+In towns, if you already have pets, the town zookeeper will offer to buy your 
+richest pet for the pet's gold plus the town's gold.  If you have no pets,
+the zookeeper will offer to sell you a pet for the day number in gold, though it
+should be noted that the pet's level will never exceed the day number and will
+probably be lower.  Buying even a weak pet early on (say, for 3 gold on day 3) can
+be very helpful for other jobs, even if you aren't primarily playing a Druid.
+
+On Day 100, first you will attempt to make the final boss your pet using the
+attack sequence described above.  Because the final boss is always a 100 level
+monster, you must have at least 101 health to do this.
+
+If you have any pets after this, you will sell off your menagerie for 
+100 gold (the final town gold) plus all your pets' gold.
+
+ARTIST
+
+Artists gain no health or gold and engage in no attacks.  If you play an artist, 
+they will paint a picture of the terrain (unless they already have, in which case 
+they will do nothing.)  If a monster is present, they will also paint a picture of 
+the monster (likewise, unless they've painted that monster type already.)  There 
+are 28 possible pictures to be painted.
+
+Paying to train as an Artist is a waste of gold, because the Artist level affects nothing.
+
+If you happend to reach Day 100 as an Artist, you will receive 1 gold for your first
+painting, 2 for your second, etc, up to 406 gold.  You will also receive the 200 gold
+from the town and monster.  While that 406 gold could not have otherwise been earned,
+chances are you gave up a lot more monster and town gold to paint those paintings.  
+You've been warned.
+
+The Artist reward is not balanced against the other jobs in the game, 
+and the job exists mostly for multiclassing for the high score board 
+and achieving the special "of All Trades" finale.
+
+JACK OF ALL TRADES
+
+If you manage to reach Day 100 with the title "of All Trades" (five jobs with
+parenthetical levels of 12, three jobs with parenthetical levels of 13) then 
+congratulations, you get pretty much every reward in the book.  You get the 200
+gold from the final monster and final town, everything you sacrificed as a Healer
+in addition to 1 gold for every point of remaining health, plus 1 gold for every 
+level of training, plus the monster gold for all your pets, plus even the payout 
+for your paintings as an artist.  And you don't even have to make a roll to get it.
+
+MOM
+
+There is an alternate score, Mom (as in "What does Mom think of you?")
+
+This score consists of your gold divided by all the town and monster (not 
+including purchased pets) gold generated for your game, multiplied by 100.  
+This score is for those who think it's unfair that the amount of gold it's 
+even possible to get per game can vary widely (though the average is about 2300.)
+Having the highest "Mom" score for your title will also get you a place on the 
+high score board, though you'll still be ranked by your final gold, because 
+life is ultimately not fair.
+
+Note that, because the Scholar, Artist and All Trades endings give them access to 
+sources of gold beyond town and monster gold, it is theoretically possible for 
+them to get a Mom score higher than 100.  Good luck with that.
+
+
